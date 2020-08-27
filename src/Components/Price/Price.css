@@ -1,0 +1,10 @@
+.price-container h4{
+    color: #EA5252;
+}
+.price-container td{
+    font-weight: 600;
+    color: rgb(199, 197, 197);
+}
+.grand-total{
+    color: #EA5265;
+}

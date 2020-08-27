@@ -1,0 +1,58 @@
+
+.course-container{
+    background-color: #181b1d;
+    margin: 15px;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.2);
+}
+.course-details{
+    color: rgb(214, 206, 206);
+    margin-left: 70px;
+} 
+.course-details h6{
+    color: rgb(248, 240, 240);
+}
+.course-details img{
+    width: 80px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.2);
+    margin-bottom: 15px;
+}
+.course-outline{
+    width: 42%;
+    margin-left: 25px;
+}
+.course-outline h4{
+    color: #EA5252;
+}
+.course-img {
+ width: 400px;
+ border-radius: 8px;
+ box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.2);
+}
+
+.enroll-button{
+    padding: 8px 15px;
+    background-color: gray;
+    outline: none;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+    background-color: #EA5252;
+    transition: all 0.3s ease;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);
+}
+.enroll-button:hover{
+    background-color:  #EA5265;
+}
+.course-fee{
+    color: #EA5252;
+    font-size: 20px;
+}
+
+.includes {
+    list-style: square;
+    line-height: 30px;
+}
